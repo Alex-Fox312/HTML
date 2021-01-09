@@ -1,0 +1,20 @@
+.box { text-align: center;
+background-color: #000000; 
+color: aliceblue;}
+body { background-color: #990909; max-width: 950px; margin: auto;}
+.container{overflow:hidden;width:200px;}
+.box div{width:200px;display:inline-block;border:10px solid black;}
+a {text-decoration: none; color: aliceblue;}
+.logo {text-align: center;}
+.menu { text-align: left;
+background-color:#7D0909;
+color: #dc520f;
+width:230px; 
+padding-top: 5px; } 
+.tit_name { text-align: center; background-color: #bdbdbd; }
+.title_block { float: right; background-color: #E3dddd; width: 170px;text-align: left; } 
+.column_1 {float: left;}
+.column_2 {float:left;}
+.column_3 {float: right;}
+.info {color: aliceblue; width: 540px; padding: 5px}
+.cop {color: aliceblue; background-color: #dc520f; text-align: center; width: 100%;}
