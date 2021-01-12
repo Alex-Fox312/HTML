@@ -1,0 +1,16 @@
+body { background-color: rgb(199, 253, 255); }
+h1 {
+    text-align: center;
+}
+ul.hr li {
+    display: inline;
+    text-align: center;
+    margin-right: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 3px orange}
+h2 {    margin-right: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 3px orange}
+h3  {margin-right: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 3px orange}

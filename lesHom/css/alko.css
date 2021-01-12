@@ -1,0 +1,21 @@
+body { background-color: rgb(199, 253, 255); }
+h1 {
+    text-align: center;
+}
+
+img {
+    text-align: right;
+    float: right;
+}
+ul.hr li {
+    display: inline;
+    text-align: center;
+    margin-right: 5px;
+     background-color: #ffffff;
+        box-shadow: 0 0 0 3px orange    
+}
+table.img { background-color: #ffffff;
+    box-shadow: 0 0 0 3px orange}
+
+.alk { box-shadow: 0 0 0 3px orange;
+background-color: #ffffff;}
