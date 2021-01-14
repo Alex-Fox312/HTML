@@ -1,0 +1,63 @@
+body {
+  background-color: #121116; 
+  min-height:100%;
+  size: 100%;}
+
+footer {
+  background-color: #121116;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;}
+
+.foot-text {
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff; 
+  top: 200px;
+  width: 100%;
+  height: 27px;
+  text-align: center;}
+
+hr {
+  top: 242px;
+  width: 230px;
+  height: 1px;}
+
+.box svg{fill: #ffffff;}
+
+.ball {
+  top: 263px;
+  width: 32px;
+  height: 14px;
+  size: 14px;
+  color: #ffffff;}
+
+.face {
+  top: 263px;
+  right: 14.13px;
+  width: 32px;
+  height: 14px;
+  size: 7px;}
+
+.google {
+  top: 263px;
+  width: 32px;
+  height: 14px;
+  size: 14px;
+  color: #ffffff;}
+
+.twit {
+  top: 263px;
+  width: 32px;
+  height: 11px;
+  size: 14px;
+  color: #ffffff;}
+
+p.copir { 
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  top: 0px;
+  height: 20px;}
+
+.kasper {color: #00C7FC;}
