@@ -1,0 +1,107 @@
+.flex-box {
+    width: 1600px;
+    height: 1400px;
+    background-color: #E2E7EC;
+    position: absolute;}
+
+.photo1 { top: 91px;
+    position: relative;
+    left: 240px;
+    width: 740px;
+    height: 540px;}
+
+.photo2 { position: absolute;
+    top: 91px;
+    left: 1000px;
+    width: 360px;
+    height: 251px;}
+
+.photo3 { position: absolute;
+    top: 651px;
+    left: 240px;
+    width: 360px;
+    height: 251px;}
+
+.photo4 { position: absolute;
+    top: 651px;
+    left: 620px;
+    width: 360px;
+    height: 251px;}
+
+.photo5 { position: absolute;
+    top: 651px;
+    left: 1000px;
+    width: 360px;
+    height: 251px;}
+
+.box1 { position: absolute;
+    font-size: 24px;
+    height: 290px;
+    width: 360px;
+    top: 342px;
+    left: 1000px;
+    background-color: #ffffff;}
+
+.box1 p { position: absolute;
+    left: 27px;
+    right: 77px;
+    top: 30px;}
+
+.box2 { position: absolute;
+    font-size: 24px;
+    height: 290px;
+    width: 360px;
+    top: 904px;
+    background-color: #ffffff;
+    left: 240px;}
+
+.box2 p { position: absolute;
+    left: 27px;
+    right: 77px;
+    top: 30px;}
+
+.box3 { position: absolute;
+    font-size: 24px;
+    height: 290px;
+    width: 360px;
+    top: 904px;
+    background-color: #ffffff;
+    left: 620px;}
+
+.box3 p { position: absolute;
+    left: 27px;
+    right: 77px;
+    top: 30px;}
+
+.box4 { position: absolute;
+    font-size: 24px;
+    height: 290px;
+    width: 360px;
+    top: 904px;
+    background-color: #ffffff;
+    left: 1000px;}
+
+.box4 p { position: absolute;
+    left: 27px;
+    right: 77px;
+    top: 30px;}
+
+span { position: absolute;
+    font-size: 13px;
+    color: #818181;
+    left: 27px;
+    height: 13px;
+    top: 25px;}
+    
+.car-text {
+        position: absolute;
+        top: 467px;
+left: 283px;
+width: 499px;
+height: 58px;
+
+        }
+.car-text span {
+        color: #ffffff;
+        font-size: 30px;
+        }
