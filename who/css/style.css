@@ -1,0 +1,41 @@
+body { background-color: #f6f6f6;}
+
+@font-face {font-family: Bold;
+    src: url(/who/text-style/Lato/Lato-Bold.ttf);}
+        
+@font-face {font-family: lite;
+    src: url(/who/text-style/Lato/Lato-Light.ttf);}
+
+.container { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2%;
+    align-items: center;}
+    
+.who { text-align: center;
+    font-size: 34px;
+    margin-top: 3%;
+    letter-spacing: 5.43px;
+    color: #3C3C3C;
+    font-family: Bold;}
+
+.info { text-align: center;
+    margin-top: 2%;
+    font-size: 16px;
+    color: #3C3C3C;
+    font-family: lite;}
+
+hr {width: 2%;
+    margin-top: -1%;
+    background: #DDDBDB;}
+
+.cart { padding-left: 1.5%;}
+
+.cart:hover { background-color: burlywood;}
+
+.name { font-size: 18px;
+    font-family: Bold;}
+
+.job-name { color: #646464;
+    font-family: lite;}
