@@ -1,0 +1,125 @@
+body {background-image: url(/img/1579319462_1-9.jpg);
+    display: flex;
+    background-size: 1080px;
+    justify-content: center;}
+
+.market {
+    margin-top: 10%;
+    background-color: #172235;
+    width: 70%;
+    border-radius: 20px;
+}
+.market__name-boot { position: relative;
+    top: -60%;
+    left: -17%;
+    color: #ffffff;
+    font-size: 24px;
+    float: right;}
+
+span {font-size: 18px;
+    color: rgb(179, 179, 179);}
+
+.market__boot-img { position: relative;
+    left: 10%;}
+
+.market__logo { position: relative;
+    left: 3%;
+    top: 5%;
+    }
+.market__stars {
+    position: relative;
+    overflow: hidden;
+    width: 265px;
+    left: 56%;
+    top: -34%;
+    }
+.market__stars:not(:checked) > input {
+    display: none;
+    }
+.market__stars:not(:checked) > label {
+    float: right;
+    width: 42px;
+    padding: 0;
+    cursor: pointer;
+    font-size: 32px;
+    line-height: 32px;
+    color: lightgrey;
+    text-shadow: 1px 1px #bbb;
+    }
+.market__stars:not(:checked) > label:before {
+    content: '★';
+    }
+.market__stars > input:checked ~ label {
+    color: gold;
+    text-shadow: 1px 1px #c60;
+    }
+.market__stars:not(:checked) > label:hover,
+.market__stars:not(:checked) > label:hover ~ label {
+    color: gold;
+    }
+.market__stars > input:checked + label:hover,
+.market__stars > input:checked + label:hover ~ label,
+.market__stars > input:checked ~ label:hover,
+.market__stars > input:checked ~ label:hover ~ label,
+.market__stars > label:hover ~ input:checked ~ label {
+    color: gold;
+    text-shadow: 1px 1px goldenrod;
+    }
+.rate-area > label:active {
+    position: relative;
+    }
+.market__color {display: flex;
+    position: relative;
+    justify-content: center;
+    left: -8%;}
+
+.market__button-size {position: relative;
+    width: 8%;
+    left: 62.5%;
+    top: -25%;
+    background-color: #172235;
+    color: #ffffff;
+    padding: 5px 12px;
+}
+
+.market__button-oty {position: relative;
+    width: 8%;
+    left: 62.5%;
+    top: -25%;
+    background-color: #172235;
+    color: #ffffff;
+    padding: 5px 12px;}
+
+.market__button-add {position: relative;
+    width: 24%;
+    left: 45.5%;
+    top: -12%;
+    background-color: rgb(63, 63, 63);
+    color: #ffffff;
+    padding: 15px 32px;}
+
+.text-button {position: relative;
+    text-align: center;
+    white-space: nowrap;}
+
+.market__color { position: relative;
+    left: -21%;
+    top: -20%;
+    margin-bottom: -10%;}
+
+.market__black { color: black ;
+    font-size: 50px;
+    position: relative;
+    padding-left: 8px;}
+.market__with { color: #ffffff;
+    font-size: 50px;
+    position: relative;
+    padding-left: 8px;}
+.market__orange { color: orange;
+    font-size: 50px;
+    position: relative;
+    padding-left: 8px;}
+.market__blu { color: rgb(106, 106, 253);
+    font-size: 50px;
+    position: relative;
+    padding-left: 8px;}
